@@ -1,0 +1,15 @@
+## Ignore Inform temporary files and build results
+
+# Build results
+[Ii]ndex/
+[Bb]uild/
+[Rr]elease/
+[Bb]in/
+
+# Temporary files
+*.plist
+*.glksave
+Metadata.iFiction
+Release.blurb
+Skein.skein
+story.zblorb
